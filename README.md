@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently learning: Cybersecurity and pursuing a degree in computer science.
 - 📫 How to reach me: mauriciomurta13@hotmail.com
-- 💻 Personal website: https://mauriciomurta.com
 
 <div align="center">
   <a href="https://github.com/MMPodesta">
