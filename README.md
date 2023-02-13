@@ -5,8 +5,8 @@
 
 <div align="center">
   <a href="https://github.com/MMPodesta">
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MMPodesta&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MMPodesta&langs_count=7&theme=merko&layout=compact"/></a>
+  <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MMPodesta&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="185em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MMPodesta&langs_count=7&theme=merko&layout=compact"/></a>
 </div>
 
 <div style="display: inline_block"><br>
