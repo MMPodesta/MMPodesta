@@ -6,7 +6,7 @@
 <div align="center">
   <a href="https://github.com/MMPodesta">
   <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MMPodesta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MMPodesta&langs_count=7&theme=dracula"/></a>
+  <img height="200em" width="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MMPodesta&langs_count=7&theme=dracula"/></a>
 </div>
 
 <div style="display: inline_block"><br>
