@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning: Cybersecurity and pursuing a degree in computer science.
+- 🌱 I’m currently learning Django and working as a software engineer
 - 📫 How to reach me: mauriciomurta13@hotmail.com
 
 <div align="center">
